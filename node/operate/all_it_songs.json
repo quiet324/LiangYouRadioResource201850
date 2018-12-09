@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180907",
-		"title": "寻求神（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it180907.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/it20180907/it/it180907.mp3",
-		"id": 41180907
-	},
-	{
 		"time": "20180910",
 		"title": "明白神的呼召（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it180910.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/it20181207/it/it181207.mp3",
 		"id": 41181207
+	},
+	{
+		"time": "20181210",
+		"title": "向神说是（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/it/it181210.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/it20181210/it/it181210.mp3",
+		"id": 41181210
 	}
 ]
