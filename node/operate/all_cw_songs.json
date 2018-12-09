@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180907",
-		"title": "赞美旋律：威尔第《安息弥撒曲》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180907.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/cw20180907/cw/cw180907.mp3",
-		"id": 51180907
-	},
-	{
 		"time": "20180910",
 		"title": "生命之歌：爱德华‧穆特《坚固盘石》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180910.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/cw20181207/cw/cw181207.mp3",
 		"id": 51181207
+	},
+	{
+		"time": "20181210",
+		"title": "生命之歌：欧彤《光照小地方》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181210.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/cw20181210/cw/cw181210.mp3",
+		"id": 51181210
 	}
 ]
