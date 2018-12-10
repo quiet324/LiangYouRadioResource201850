@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180910",
-		"title": "亚伯拉罕的其他后代（4）（创25:19-26）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th180910.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/th20180910/th/th180910.mp3",
-		"id": 32180910
-	},
-	{
 		"time": "20180911",
 		"title": "亚伯拉罕的其他后代（5）（创25:27-34）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th180911.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/th20181210/th/th181210.mp3",
 		"id": 32181210
+	},
+	{
+		"time": "20181211",
+		"title": "约瑟的受苦（2）（创37:5-11）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th181211.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/th20181211/th/th181211.mp3",
+		"id": 32181211
 	}
 ]
