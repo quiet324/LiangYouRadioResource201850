@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180910",
-		"title": "找到真正的朋友",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180910.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/gn20180910/gn/gn180910.mp3",
-		"id": 22180910
-	},
-	{
 		"time": "20180911",
 		"title": "蜕变的人生──良音姊妹的故事（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180911.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/gn20181210/gn/gn181210.mp3",
 		"id": 22181210
+	},
+	{
+		"time": "20181211",
+		"title": "神的呼召──田永利的故事（下）",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181211.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/gn20181211/gn/gn181211.mp3",
+		"id": 22181211
 	}
 ]
