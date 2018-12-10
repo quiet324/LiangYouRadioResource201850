@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180910",
-		"title": "信心日引：耶稣是光（约1:7-8）；大阅读家：第十四章、培养读书人-3",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180910.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/bc20180910/bc/bc180910.mp3",
-		"id": 10180910
-	},
-	{
 		"time": "20180911",
 		"title": "信心日引：在患难中的祷告（赛37:14-15）；大阅读家：第十五章、从此幸福快乐-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180911.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/bc20181210/bc/bc181210.mp3",
 		"id": 10181210
+	},
+	{
+		"time": "20181211",
+		"title": "信心日引：成为神儿女（约1:11-12）；做基督的管家：第四章、好管家的画像",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181211.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/bc20181211/bc/bc181211.mp3",
+		"id": 10181211
 	}
 ]
