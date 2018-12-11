@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180911",
-		"title": "变卖你所有的（可10:17-22）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180911.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/mw20180911/mw/mw180911.mp3",
-		"id": 30180911
-	},
-	{
 		"time": "20180912",
 		"title": "耶稣早已为你想过（约14:1-7）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180912.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/mw20181211/mw/mw181211.mp3",
 		"id": 30181211
+	},
+	{
+		"time": "20181212",
+		"title": "恒心忍耐的秘诀（来11:23-29）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181212.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/mw20181212/mw/mw181212.mp3",
+		"id": 30181212
 	}
 ]
