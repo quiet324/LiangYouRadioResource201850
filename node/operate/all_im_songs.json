@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180911",
-		"title": "曼曼成长记：理解倾听，让孩子感觉好──孩子不高兴、生气，甚至犯错已很难过的时候，讲道理和批评很难起到积极和有建设性的作用，即使家长拿出权威，严厉制止了孩子的哭闹、发脾气，但下次可能会继续变本加厉，时间长了还会形成急躁、易怒的性格。如何做到专注地倾听，理解孩子的感受，并让孩子感觉好？理论根据及实践效果又如何？",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180911.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/im20180911/im/im180911.mp3",
-		"id": 14180911
-	},
-	{
 		"time": "20180912",
 		"title": "太太空间：走出产后抑郁症（上）女人从怀孕到生产，生理的变化和生产的疼痛都会给孕产妇带来心理上种种负面的情绪反应，加上新手妈妈在照顾孩子方面的缺乏经验，又容易在育儿理念和方法上与身边的亲人发生冲突矛盾，更容易加剧抑郁病发。好在高龄孕产妇的她在产后抑郁时得到了及时的帮助……",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180912.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/im20181211/im/im181211.mp3",
 		"id": 14181211
+	},
+	{
+		"time": "20181212",
+		"title": "太太空间：从惧怕逃离婆婆，到饶恕祝福婆婆──一婆媳关系问题，几乎都存在控制与反控制，或用控制来对抗控制的矛盾。她从一开始惧怕和强势的婆婆相处，到后来主动跟婆婆住在一起，再到后来学会饶恕和祝福婆婆。她不断要求自己成长改变的心路历程，对处在婆媳关系问题中的女性来说，或会产生一些共鸣。",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181212.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/im20181212/im/im181212.mp3",
+		"id": 14181212
 	}
 ]
