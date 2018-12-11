@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180911",
-		"title": "亚伯拉罕的其他后代（5）（创25:27-34）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th180911.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/th20180911/th/th180911.mp3",
-		"id": 32180911
-	},
-	{
 		"time": "20180912",
 		"title": "以撒住在基拉耳（1）（创26:1-5）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th180912.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/th20181211/th/th181211.mp3",
 		"id": 32181211
+	},
+	{
+		"time": "20181212",
+		"title": "约瑟的受苦（3）（创37:12-17）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th181212.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/th20181212/th/th181212.mp3",
+		"id": 32181212
 	}
 ]
