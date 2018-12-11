@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180911",
-		"title": "教牧新视野：再思堂会的布道事工（主持：姚谦、杨天成）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180911.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/ds20180911/ds/ds180911.mp3",
-		"id": 46180911
-	},
-	{
 		"time": "20180912",
 		"title": "晨曦交流站：卢文牧师和文惠与你探讨听众所关注的教会问题",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180912.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/ds20181211/ds/ds181211.mp3",
 		"id": 46181211
+	},
+	{
+		"time": "20181212",
+		"title": "晨曦交流站：卢文牧师和林诚牧师与你探讨听众所关注的教会问题",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181212.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/ds20181212/ds/ds181212.mp3",
+		"id": 46181212
 	}
 ]
