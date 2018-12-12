@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180912",
-		"title": "音乐咕咕钟：谁是",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180912.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/pc20180912/pc/pc180912.mp3",
-		"id": 17180912
-	},
-	{
 		"time": "20180913",
 		"title": "巨人的秘密：美国音乐家乔治杰斯文",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180913.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/pc20181212/pc/pc181212.mp3",
 		"id": 17181212
+	},
+	{
+		"time": "20181213",
+		"title": "巨人的秘密：唐朝军事家李靖（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181213.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/pc20181213/pc/pc181213.mp3",
+		"id": 17181213
 	}
 ]
