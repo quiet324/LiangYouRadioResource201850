@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180913",
-		"title": "耶稣比这更宝贵（约壹2:12-17）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180913.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/mw20180913/mw/mw180913.mp3",
-		"id": 30180913
-	},
-	{
 		"time": "20180914",
 		"title": "想念主爱（约15:9-15）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180914.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/mw20181213/mw/mw181213.mp3",
 		"id": 30181213
+	},
+	{
+		"time": "20181214",
+		"title": "“客旅”与“客店”（利25:23；彼前1:15-21）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181214.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/mw20181214/mw/mw181214.mp3",
+		"id": 30181214
 	}
 ]
