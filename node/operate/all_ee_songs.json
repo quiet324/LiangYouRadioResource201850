@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180913",
-		"title": "智慧语录：一份30个字的个人简历，令人震惊！说个故事给你听：追思洪汉义——从香港黑帮老大到教会牧师",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180913.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/ee20180913/ee/ee180913.mp3",
-		"id": 29180913
-	},
-	{
 		"time": "20180914",
 		"title": "智慧语录：我需要；拥抱小语：如今生活很好，还需要耶稣吗？亮丽人生不是梦：过犹不及——地理上的距离",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180914.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/ee20181213/ee/ee181213.mp3",
 		"id": 29181213
+	},
+	{
+		"time": "20181214",
+		"title": "圣诞特辑：为何是我──一代人一代歌：也许耶鲁不是最好的归宿；病残卧病22年的爱情",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181214.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/ee20181214/ee/ee181214.mp3",
+		"id": 29181214
 	}
 ]
