@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180912",
-		"title": "好得无比，每一天：别担心，要快乐（加5:22-23）；建立生活的基石（13）（主持：刘芳）；我爱背金句：徒20:28",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180912.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/dy20180912/dy/dy180912.mp3",
-		"id": 24180912
-	},
-	{
 		"time": "20180913",
 		"title": "好得无比，每一天：金钱不能买的快乐（诗32:11）；教会的种子（13）（主持：万峰）；我爱背金句：徒20:28",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180913.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/dy20181212/dy/dy181212.mp3",
 		"id": 24181212
+	},
+	{
+		"time": "20181213",
+		"title": "好得无比，每一天：廉耻（提前2:2）；马太福音说书（24）；我爱背金句：林后 10:4",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181213.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/dy20181213/dy/dy181213.mp3",
+		"id": 24181213
 	}
 ]
