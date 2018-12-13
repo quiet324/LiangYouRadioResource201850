@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180913",
-		"title": "来吧赞美：《投靠者的赞美》、《当转眼仰望耶稣》、《恩典的记号》、《树》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180913.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/cw20180913/cw/cw180913.mp3",
-		"id": 51180913
-	},
-	{
 		"time": "20180914",
 		"title": "赞美旋律：圣桑《参孙与大利拉》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180914.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/cw20181213/cw/cw181213.mp3",
 		"id": 51181213
+	},
+	{
+		"time": "20181214",
+		"title": "赞美旋律：亨德尔弥赛亚之《因有一婴孩为我们而生》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181214.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/cw20181214/cw/cw181214.mp3",
+		"id": 51181214
 	}
 ]
