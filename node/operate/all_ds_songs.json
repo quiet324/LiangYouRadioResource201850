@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180914",
-		"title": "从布道到培训：基督与教会（主持：卢文、周虹）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180914.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201837/ds20180914/ds/ds180914.mp3",
-		"id": 46180914
-	},
-	{
 		"time": "20180915",
 		"title": "从布道到培训：合一的赞歌（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180915.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/ds20181214/ds/ds181214.mp3",
 		"id": 46181214
+	},
+	{
+		"time": "20181215",
+		"title": "从布道到培训：肢体中的律与内心的律交战（主持：卢文、杨天成）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181215.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201850/ds20181215/ds/ds181215.mp3",
+		"id": 46181215
 	}
 ]
